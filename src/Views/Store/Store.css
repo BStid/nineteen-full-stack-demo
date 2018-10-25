@@ -1,0 +1,17 @@
+.store-container {
+  display: flex;
+}
+.store {
+  height: 90vh;
+  flex: 7;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  overflow: auto;
+}
+
+.store > * {
+  width: 30%;
+  margin: 40px 0;
+}

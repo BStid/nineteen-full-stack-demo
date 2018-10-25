@@ -1,0 +1,16 @@
+.Nav {
+  background: black;
+  height: 10vh;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40px;
+  align-items: center;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-decoration: none;
+}
+.Nav a {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,9 @@
+.cart-container {
+}
+.cart-product {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  border: 1px solid black;
+}
